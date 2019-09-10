@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test-with-require-cl-arg": "mocha --require esm",
+    "test-with-just-mocha-opts": "mocha"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^6.2.0"
+  }
+}
